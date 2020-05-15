@@ -1,5 +1,5 @@
 [apim]
-apim_1 ansible_host=[ip_address] ansible_user=[ssh_user]
+apim_1 ansible_host=192.168.0.9 ansible_user=skalena ansible_ssh_pass=1qaz2wsx  ansible_sudo_pass=1qaz2wsx
 
 # Example
 # [apim]
