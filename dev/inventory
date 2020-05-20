@@ -1,5 +1,5 @@
 [apim]
-apim_1 ansible_host=vm ansible_user=admin ansible_ssh_pass=admin ansible_sudo_pass=admin
+apim_1 ansible_host=vm ansible_user=ericomtx ansible_ssh_pass=kernel26 ansible_sudo_pass=kernel26
 
 # Example
 # [apim]
