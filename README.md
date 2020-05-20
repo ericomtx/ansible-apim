@@ -2,6 +2,8 @@
 
 This repository contains the Ansible scripts for installing and configuring WSO2 API Management.
 
+This is a template for other projects
+
 ## Supported Operating Systems
 
 - Ubuntu 16.04 or higher
