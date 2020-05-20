@@ -20,7 +20,7 @@ url = "{{ wso2am_db_url }}"
 username = "{{ wso2am_db_username }}"
 password = "{{ wso2am_db_password }}"
 [database.apim_db.pool_options]
-# validationQuery = "select 1"
+validationQuery = "select 1"
 
 [database.shared_db]
 type = "{{ wso2shared_db_type }}"
